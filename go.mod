@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/containrrr/shoutrrr v0.8.0
 	github.com/distribution/reference v0.5.0
-	github.com/docker/cli v25.0.7+incompatible
+	github.com/docker/cli v29.5.3+incompatible
 	github.com/docker/docker v25.0.16+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/onsi/ginkgo v1.16.5
